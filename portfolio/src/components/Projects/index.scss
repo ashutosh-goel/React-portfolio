@@ -1,0 +1,26 @@
+.projects-page {
+    .text-zone {
+      position: absolute;
+      left: 20%;
+      top: 30%;
+      transform: translateY(-50%);
+      width: 40%;
+      max-height: 90%;
+    }
+  
+    h1 {
+      color: #fff;
+      font-size: 56px;
+      line-height: 53px;
+      margin: 0;
+      font-family: 'Coolvetica';
+      font-weight: 400; 
+    }
+
+    h2 {
+        color: #ffd700;
+        font-size: 30px;
+        font-family: "sans-serif";
+        
+    }
+  }

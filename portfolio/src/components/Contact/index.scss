@@ -1,0 +1,42 @@
+.contact {
+    .text-zone {
+      position: absolute;
+      left: 20%;
+      top: 30%;
+      transform: translateY(-50%);
+      width: 40%;
+      max-height: 90%;
+    }
+  
+    h1 {
+      color: #fff;
+      font-size: 56px;
+      line-height: 53px;
+      margin-bottom: 40px;
+      font-family: 'Coolvetica';
+      font-weight: 400; 
+    }
+
+    .icon{
+        margin: 5px;
+        font-size: 30px;
+        color: #ffd700;
+    }
+
+    .text{
+        font-size: 15px;
+        color: #ffffff;
+        font-family: 'arial';
+        font-weight: 100;
+        letter-spacing: 1px;
+    }
+
+    .anchor-icon{
+        font-size: 30px;
+        margin-left: 5px;
+        display: inline;
+        color: #ffd700;
+        margin-top: 20px;
+        margin-right: 10px;
+    }
+  }

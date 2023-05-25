@@ -1,0 +1,51 @@
+.home-page {
+    .text-zone {
+      position: absolute;
+      left: 10%;
+      top: 30%;
+      transform: translateY(-50%);
+      width: 40%;
+      max-height: 90%;
+    }
+
+    .profile-pic {
+      position: absolute;
+      right: 30%;
+      top: 10%;
+      width: 300px;
+      border-radius: 30%;
+    }
+  
+    h1 {
+      color: #fff;
+      font-size: 56px;
+      line-height: 53px;
+      margin: 0;
+      font-family: 'Coolvetica';
+      font-weight: 400; 
+    }
+
+
+    .Name{
+      color: #ffd700;
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    }
+  
+    h2 {
+      color: #8d8d8d;
+      margin-top: 20px;
+      font-weight: 400;
+      font-size: 25px;
+      font-family: sans-serif;
+      letter-spacing: 3px;
+    
+    }
+
+    p {
+        color: #8d8d8d;
+        margin-top: 10px;
+        font-size: 17px;
+        letter-spacing: 2px;
+    }
+
+  }
